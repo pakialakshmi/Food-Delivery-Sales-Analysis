@@ -1,0 +1,121 @@
+Order_ID,Order_Time,Location,Item,Amount
+1001,20:01,Hyderabad,Pasta,280
+1002,13:08,Chennai,Pasta,280
+1003,20:57,Chennai,Fried Rice,220
+1004,20:02,Chennai,Pizza,250
+1005,13:32,Chennai,Fried Rice,220
+1006,19:45,Kochi,Pasta,280
+1007,19:28,Hyderabad,Fried Rice,220
+1008,21:00,Bangalore,Shawarma,160
+1009,20:21,Bangalore,Biryani,300
+1010,13:48,Chennai,Biryani,300
+1011,12:06,Hyderabad,Biryani,300
+1012,20:51,Coimbatore,Pizza,250
+1013,19:59,Chennai,Dosa,120
+1014,19:53,Kochi,Pasta,280
+1015,21:23,Bangalore,Fried Rice,220
+1016,20:02,Bangalore,Pasta,280
+1017,21:05,Bangalore,Shawarma,160
+1018,21:24,Coimbatore,Biryani,300
+1019,20:23,Hyderabad,Burger,180
+1020,18:42,Chennai,Biryani,300
+1021,20:10,Bangalore,Fried Rice,220
+1022,12:24,Kochi,Biryani,300
+1023,13:20,Chennai,Shawarma,160
+1024,13:02,Hyderabad,Shawarma,160
+1025,18:04,Kochi,Burger,180
+1026,21:20,Coimbatore,Burger,180
+1027,18:58,Coimbatore,Pasta,280
+1028,12:08,Kochi,Burger,180
+1029,19:47,Coimbatore,Fried Rice,220
+1030,21:25,Bangalore,Biryani,300
+1031,22:08,Coimbatore,Fried Rice,220
+1032,12:03,Chennai,Shawarma,160
+1033,12:10,Coimbatore,Shawarma,160
+1034,20:24,Kochi,Dosa,120
+1035,22:33,Kochi,Biryani,300
+1036,21:00,Chennai,Pasta,280
+1037,20:34,Hyderabad,Shawarma,160
+1038,21:21,Hyderabad,Pizza,250
+1039,19:29,Hyderabad,Pizza,250
+1040,22:48,Kochi,Burger,180
+1041,22:55,Hyderabad,Pasta,280
+1042,21:32,Bangalore,Fried Rice,220
+1043,12:48,Kochi,Burger,180
+1044,22:59,Chennai,Fried Rice,220
+1045,20:31,Chennai,Pizza,250
+1046,22:56,Hyderabad,Shawarma,160
+1047,13:15,Chennai,Fried Rice,220
+1048,10:31,Chennai,Shawarma,160
+1049,22:34,Bangalore,Shawarma,160
+1050,12:30,Bangalore,Fried Rice,220
+1051,14:55,Coimbatore,Fried Rice,220
+1052,22:59,Bangalore,Fried Rice,220
+1053,20:25,Hyderabad,Pasta,280
+1054,19:33,Chennai,Dosa,120
+1055,13:04,Chennai,Biryani,300
+1056,20:14,Bangalore,Fried Rice,220
+1057,08:45,Chennai,Pasta,280
+1058,13:57,Hyderabad,Pizza,250
+1059,09:15,Coimbatore,Biryani,300
+1060,13:08,Kochi,Pasta,280
+1061,20:15,Coimbatore,Shawarma,160
+1062,21:12,Chennai,Pizza,250
+1063,20:22,Coimbatore,Dosa,120
+1064,19:46,Chennai,Pizza,250
+1065,09:46,Chennai,Biryani,300
+1066,13:12,Coimbatore,Fried Rice,220
+1067,12:11,Coimbatore,Biryani,300
+1068,13:59,Coimbatore,Pizza,250
+1069,21:54,Chennai,Fried Rice,220
+1070,09:34,Chennai,Shawarma,160
+1071,22:59,Bangalore,Shawarma,160
+1072,13:31,Bangalore,Dosa,120
+1073,21:57,Bangalore,Pizza,250
+1074,18:24,Coimbatore,Biryani,300
+1075,14:44,Kochi,Pasta,280
+1076,20:31,Bangalore,Burger,180
+1077,14:03,Kochi,Fried Rice,220
+1078,09:20,Chennai,Pizza,250
+1079,20:32,Kochi,Shawarma,160
+1080,12:32,Bangalore,Pizza,250
+1081,09:04,Bangalore,Pasta,280
+1082,18:56,Bangalore,Fried Rice,220
+1083,20:02,Chennai,Fried Rice,220
+1084,19:37,Kochi,Fried Rice,220
+1085,18:16,Hyderabad,Burger,180
+1086,13:25,Hyderabad,Burger,180
+1087,19:59,Chennai,Shawarma,160
+1088,08:39,Chennai,Fried Rice,220
+1089,10:13,Hyderabad,Fried Rice,220
+1090,12:22,Bangalore,Pizza,250
+1091,18:10,Kochi,Dosa,120
+1092,20:39,Kochi,Shawarma,160
+1093,08:52,Hyderabad,Fried Rice,220
+1094,22:06,Hyderabad,Burger,180
+1095,12:06,Kochi,Pasta,280
+1096,12:18,Bangalore,Fried Rice,220
+1097,20:13,Hyderabad,Pasta,280
+1098,19:16,Chennai,Shawarma,160
+1099,12:27,Hyderabad,Shawarma,160
+1100,09:21,Bangalore,Shawarma,160
+1101,20:16,Coimbatore,Burger,180
+1102,19:27,Chennai,Fried Rice,220
+1103,12:56,Bangalore,Pasta,280
+1104,19:53,Kochi,Biryani,300
+1105,19:27,Chennai,Burger,180
+1106,14:57,Chennai,Shawarma,160
+1107,21:13,Bangalore,Pasta,280
+1108,20:22,Kochi,Shawarma,160
+1109,21:26,Bangalore,Fried Rice,220
+1110,22:15,Bangalore,Shawarma,160
+1111,22:51,Coimbatore,Burger,180
+1112,08:47,Coimbatore,Biryani,300
+1113,21:55,Bangalore,Pasta,280
+1114,14:50,Chennai,Pasta,280
+1115,18:02,Coimbatore,Shawarma,160
+1116,13:52,Hyderabad,Dosa,120
+1117,14:50,Bangalore,Shawarma,160
+1118,13:42,Coimbatore,Burger,180
+1119,18:55,Hyderabad,Pizza,250
+1120,18:32,Kochi,Dosa,120
